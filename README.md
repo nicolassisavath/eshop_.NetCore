@@ -23,3 +23,5 @@ Afin de consommer les API autres que pour la connection et la création de compt
 
 Il est sinon possible de mettre en commentaire l'attribut Authorize au dessus des controllers.
 
+Les utilisateurs Nicolas/nicolas & Zidane/zidane sont déjà enregistrés en tant qu'utilisateurs.
+
